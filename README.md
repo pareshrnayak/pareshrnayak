@@ -68,7 +68,5 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pareshrnayak&theme=default" alt="GitHub Streak"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pareshrnayak" alt="GitHub Streak" /></a>
 
